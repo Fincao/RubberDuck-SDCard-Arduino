@@ -7,7 +7,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-green.svg)
 [![code with hearth by William](https://img.shields.io/badge/<%5C>%20with%20♥%20by-Will-red)](https://github.com/Fincao)
-![conexões simultaneas](https://img.shields.io/badge/10-Windows-blue?logo=Windows&style=flat)
+![conexões simultaneas](https://img.shields.io/badge/Microsoft-Windows-blue?logo=Windows&style=flat)
 ![conexões simultaneas](https://img.shields.io/badge/OSX-Apple-lightgrey?logo=Apple&style=flat)
 ![conexões simultaneas](https://img.shields.io/badge/Linux-OS-blue?logo=Linux&style=flat)
 
@@ -55,7 +55,10 @@ D16   | MOSI | -
  
   - O cartão SD déve ser formatado em "Fat", não recomendo usar outro tipo de partição.
   - O passe o "payload" para dentro do SD (dããã²) "payload.txt".
-  - Sketch escrito para **qualquer OS**, cabe a você adaptar seu payload para o sistema.  
+  - Sketch escrito para **qualquer OS**, [Windows](https://img.shields.io/badge/Microsoft-Windows-blue?logo=Windows&style=flat)
+![Apple](https://img.shields.io/badge/OSX-Apple-lightgrey?logo=Apple&style=flat)
+![Linux](https://img.shields.io/badge/Linux-OS-blue?logo=Linux&style=flat).
+    - Cabe a você adaptar seu payload para o sistema alvo.
   - Projeto funciona em Para **Arduino Pro Micro**  &  **Arduino Leonardo** mudando apenas algumas configurações nas pinagens.
  
  <br>
