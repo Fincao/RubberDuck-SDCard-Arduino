@@ -1,4 +1,4 @@
-<h1 align="center">RubberDuck com SDCard - Arduino.</h1>
+<h1 align="center">RubberDuck com SDCard - Arduino<img height="33" width="33" src="https://github.com/Fincao/RubberDuck-SDCard-Arduino/blob/master/img/duckduckgo.svg" />.</h1>
 
 <p align="center">
  <img alt="digispark" src="https://github.com/Fincao/RubberDuck-SDCard-Arduino/blob/master/img/promicro-sdcard.jpg" width="355px">
