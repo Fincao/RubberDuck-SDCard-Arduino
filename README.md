@@ -13,7 +13,7 @@
 
 <br>
 <p align="center">
-Passo a passo 🚶 de como criar 🔧 seu proprio "RubberDuck com Scripts editaveis por um SDcard".
+Passo a passo 🚶 como criar seu proprio "RubberDuck com Scripts editaveis por um SDcard" 🔧.
 </p>
 
 <br>
