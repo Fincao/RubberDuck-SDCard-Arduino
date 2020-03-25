@@ -18,7 +18,14 @@ Passo a passo 🚶 de como criar 🔧 seu proprio "RubberDuck com Scripts editav
 
 <br>
 
- - Sketch escrito para **Windows 10**, não funciona para outro sistema.
+# Requesitos.
+
+ - 1-Computadr com IDE do arduino instalado (dãããã!).
+ - 2-Plaquinha Arduino **Pro Micro** + seu respectivo cabo USB.
+ - 3-Modulo **SDCard** para arduino.
+
+
+ - >Sketch escrito para **qualquer OS**, cabe a você adaptar seu payload para o sistema.
  - Para **Arduino Pro Micro**  &  **Arduino Leonardo**.
  
  <br>
