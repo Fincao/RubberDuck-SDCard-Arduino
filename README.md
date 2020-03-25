@@ -1,7 +1,7 @@
 <h1 align="center">RubberDuck com SDCard - Arduino.</h1>
 
 <p align="center">
- <img alt="digispark" src="https://github.com/Fincao/PrintScreen-Arduino/blob/master/img/pro%20micro.png" width="162px">
+ <img alt="digispark" src="https://github.com/Fincao/RubberDuck-SDCard-Arduino/blob/master/img/promicro-sdcard.jpg" width="355px">
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
