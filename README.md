@@ -1,7 +1,7 @@
 <h1 align="center">RubberDuck com SDCard - Arduino <img height="33" width="33" src="https://github.com/Fincao/RubberDuck-SDCard-Arduino/blob/master/img/duckduckgo.svg" />.</h1>
 
 <p align="center">
- <img alt="digispark" src="https://github.com/Fincao/RubberDuck-SDCard-Arduino/blob/master/img/promicro-sdcard.jpg" width="355px">
+ <img alt="MICRO-PRO E SDCARD" src="https://github.com/Fincao/RubberDuck-SDCard-Arduino/blob/master/img/promicro-sdcard.jpg" width="355px">
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -32,7 +32,7 @@ Abaixo segue as conexões fisicas que devem ser feitas entre o Arduino e o modul
 
 <br/>
 
-ARDUINO| SDCARD 
+ ARDUINO| SDCARD 
 ------------ | -------------
 VCC | VCC | -
 GND   | GND | -
@@ -42,8 +42,20 @@ D14   | MISO | -
 D16   | MOSI | -
 
  <br>
+ 
+ <img alt="MICRO-PRO E SDCARD" src="https://github.com/Fincao/RubberDuck-SDCard-Arduino/blob/master/img/sdcardCONNECT.png" width="555px">
 
- - >Sketch escrito para **qualquer OS**, cabe a você adaptar seu payload para o sistema.
- - Para **Arduino Pro Micro**  &  **Arduino Leonardo**.
+ <br>
+ 
+ - >Representação da conexão entre o **Pro-Micro** e **SDCard**.
+ 
+ <br>
+ 
+ # Considerações.
+ 
+  - O cartão SD déve ser formatado em "Fat", não recomendo usar outro tipo de partição.
+  - O passe o "payload" para dentro do SD (dããã²) "payload.txt".
+  - Sketch escrito para **qualquer OS**, cabe a você adaptar seu payload para o sistema.  
+  - Projeto funciona em Para **Arduino Pro Micro**  &  **Arduino Leonardo** mudando apenas algumas configurações nas pinagens.
  
  <br>
