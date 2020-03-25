@@ -59,6 +59,6 @@ D16   | MOSI | -
 ![Apple](https://img.shields.io/badge/OSX-Apple-lightgrey?logo=Apple&style=flat)
 ![Linux](https://img.shields.io/badge/Linux-OS-blue?logo=Linux&style=flat).
     - Cabe a você adaptar seu payload para o sistema alvo.
-  - Projeto funciona em Para **Arduino Pro Micro**  &  **Arduino Leonardo** mudando apenas algumas configurações nas pinagens.
+  - Projeto funciona em **Arduino Pro Micro**  &  **Arduino Leonardo** mudando apenas algumas configurações nas pinagens.
  
  <br>
