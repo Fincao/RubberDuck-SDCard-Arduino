@@ -62,3 +62,5 @@ D16   | MOSI | -
   - Projeto funciona em **Arduino Pro Micro**  &  **Arduino Leonardo** mudando apenas algumas configurações nas pinagens.
  
  <br>
+ 
+ > Use por sua conta e risco.
