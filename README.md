@@ -5,11 +5,11 @@
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Contributions welcome](https://img.shields.io/badge/contributions-welcome-green.svg)
 [![code with hearth by William](https://img.shields.io/badge/<%5C>%20with%20♥%20by-Will-red)](https://github.com/Fincao)
 ![Windows](https://img.shields.io/badge/Microsoft-Windows-blue?logo=Windows&style=flat)
 ![Apple](https://img.shields.io/badge/OSX-Apple-lightgrey?logo=Apple&style=flat)
 ![Linux](https://img.shields.io/badge/Linux-OS-blue?logo=Linux&style=flat)
+![Arduino](https://img.shields.io/badge/Arduino-IDE-green?logo=Arduino&style=flat)
 
 <br>
 <p align="center">
