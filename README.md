@@ -63,7 +63,7 @@ D16   | MOSI | -
  
  <br>
  
- > Use por sua conta e risco.
+ > Os codigos aqui contidos são apenas para estudo e me isento de qualquer uso para dano a si ou a terceiros. Use por sua conta e risco.
  
  </br>
  
