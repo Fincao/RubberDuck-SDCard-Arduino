@@ -24,8 +24,6 @@ Passo a passo 🚶 como criar seu proprio "RubberDuck com Scripts editaveis por 
  - 2-Plaquinha Arduino **Pro Micro** + seu respectivo cabo USB.
  - 3-Modulo **SDCard** para arduino.
 
-<br/>
-
 # Conexões.
 
 Abaixo segue as conexões fisicas que devem ser feitas entre o Arduino e o modulo SDCard.
