@@ -26,7 +26,7 @@ Passo a passo 🚶 como criar seu proprio "RubberDuck com Scripts editaveis por 
 
 # Conexões.
 
-Abaixo segue as conexões fisicas que devem ser feitas entre o Arduino e o modulo SDCard.
+Abaixo segue as conexões físicas que devem ser feitas entre o Arduino e o modulo SDCard.
 
 <br/>
 
@@ -51,7 +51,7 @@ D16   | MOSI | -
  
  # Considerações.
  
-  - O cartão SD déve ser formatado em "Fat", não recomendo usar outro tipo de partição.
+  - O cartão SD deve ser formatado em "Fat", não recomendo usar outro tipo de partição.
   - O passe o "payload" para dentro do SD (dããã²) "payload.txt".
   - Sketch escrito para **qualquer OS**, ![Windows](https://img.shields.io/badge/Microsoft-Windows-blue?logo=Windows&style=flat)
 ![Apple](https://img.shields.io/badge/OSX-Apple-lightgrey?logo=Apple&style=flat)
@@ -61,7 +61,7 @@ D16   | MOSI | -
  
  <br>
  
- > Os codigos aqui contidos são apenas para estudo e me isento de qualquer uso para dano a si ou a terceiros. Use por sua conta e risco.
+ > Os códigos aqui contidos são apenas para estudo e me isento de qualquer uso para dano a si ou a terceiros. Use por sua conta e risco.
  
  </br>
  
