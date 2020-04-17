@@ -20,9 +20,9 @@ Passo a passo 🚶 como criar seu proprio "RubberDuck com Scripts editaveis por 
 
 # Requisitos.
 
- - 1-Computador com IDE do arduino instalado (dãããã!).
- - 2-Plaquinha Arduino **Pro Micro** + seu respectivo cabo USB.
- - 3-Modulo **SDCard** para arduino.
+ - 1º -Computador com IDE do arduino instalado (dãããã!).
+ - 2º -Plaquinha Arduino **Pro Micro** + seu respectivo cabo USB.
+ - 3º -Modulo **SDCard** para arduino.
 
 # Conexões.
 
